@@ -1,3 +1,3 @@
 # tacbot-portal
 Tacbot training
-Ashwath S K
+Ashwath S K is selected
